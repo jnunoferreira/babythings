@@ -3,6 +3,7 @@ Teste roupas doc
 
 <h1>teste header</h1>
 
+```mermaid
 gantt
     title Plano de Visitas Cosmo Ferreira
     dateFormat  YYYY-MM-DD
@@ -22,5 +23,4 @@ gantt
     Tarde           :a1, 2022-07-28, 1d
     Tarde           :a1, 2022-07-29, 1d
     
-    
-            
+```
