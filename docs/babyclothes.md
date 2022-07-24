@@ -6,6 +6,7 @@ Teste roupas doc
 ```mermaid
 gantt
     title Baby Clothes Size Roadmap
+    todayMarker off
     dateFormat  DD-MM-YYYY
     section Seasons
     AW           :inv1, 12-11-2022, 180d
