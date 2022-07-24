@@ -33,8 +33,7 @@ gantt
     axisFormat  %d-%m-%Y
     section Seasons
     AW           :inv1, 12-11-2022, 180d
-    SS           :prim1, after inv1  , 180d
-    AW           :after prim1, 60d
+    SS           :prim1, after inv1  , 60d
     section Sizes
     0-1           :a2, 23-10-2022, 30d
     1-2           :after a2 , 30d
