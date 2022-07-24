@@ -8,6 +8,7 @@ gantt
     title Baby Clothes Size Roadmap
     todayMarker off
     dateFormat  DD-MM-YYYY
+    axisFormat  %d-%m-%Y
     Nascimento : milestone, m1, 23-10-2022
     section Seasons
     AW           :inv1, 12-11-2022, 180d
