@@ -11,7 +11,7 @@ gantt
     axisFormat  %d-%m-%Y
     Nascimento : milestone, m1, 23-10-2022, 1d
     section Seasons
-    AW           :inv1, 12-11-2022, 180d
+    AW           :inv1, 01-10-2022, 180d
     SS           :prim1, after inv1  , 180d
     AW           :after prim1, 180d
     section Sizes
@@ -33,7 +33,7 @@ gantt
     axisFormat  %b%Y
     Nascimento : milestone, m1, 23-10-2022, 1d
     section Seasons
-    AW           :inv1, 12-11-2022, 180d
+    AW           :inv1, 01-10-2022, 180d
     SS           :prim1, after inv1  , 60d
     section Sizes
     0-1           :a2, 23-10-2022, 30d
